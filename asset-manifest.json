@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fefe272.css",
+    "main.js": "/static/js/main.d8209353.js",
+    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
+    "static/media/banner.png": "/static/media/banner.e7551ba97dad5d0a84af.png",
+    "static/media/no_data.png": "/static/media/no_data.53c00195f891ba7836d1.png",
+    "static/media/shop_details.png": "/static/media/shop_details.d29dac51d88f722b9ec2.png",
+    "static/media/404.png": "/static/media/404.383a31b3e13c47d17e6c.png",
+    "static/media/governance_default.png": "/static/media/governance_default.fb9d058af08dc6486a57.png",
+    "static/media/treasury_default.png": "/static/media/treasury_default.fb9d058af08dc6486a57.png",
+    "static/media/banner_figure.png": "/static/media/banner_figure.ec9ce4fbc7b3b375bcb7.png",
+    "static/media/home_about_1.png": "/static/media/home_about_1.ee7426de5f496e648c65.png",
+    "static/media/introduce_xt1.png": "/static/media/introduce_xt1.d92645f46c308d3681fd.png",
+    "static/media/icon3.png": "/static/media/icon3.be7e407d25c491c8210e.png",
+    "static/media/icon1.png": "/static/media/icon1.ed294a4c485b3f5062e9.png",
+    "static/media/icon5.png": "/static/media/icon5.4b044b13d27612df2bf1.png",
+    "static/media/icon4.png": "/static/media/icon4.b8b31b40797386402907.png",
+    "static/media/icon6.png": "/static/media/icon6.e7a54899cbbe2b799fc1.png",
+    "static/media/icon2.png": "/static/media/icon2.12edbfeb86a1769266d2.png",
+    "static/media/metamask.svg": "/static/media/metamask.576281bfee1ad8e6f2b14030e2307e5f.svg",
+    "static/media/AVAX.svg": "/static/media/AVAX.59b3ee84e729304d4745513714011fea.svg",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.16a363ed845f0b40067977c0dd172384.svg",
+    "static/media/BNB.svg": "/static/media/BNB.59a60951c8e18b6ce6f1b1acead1f51d.svg",
+    "index.html": "/index.html",
+    "static/media/ETH.svg": "/static/media/ETH.ff9b96b6987af726194a12c6e62e01b7.svg",
+    "main.9fefe272.css.map": "/static/css/main.9fefe272.css.map",
+    "main.d8209353.js.map": "/static/js/main.d8209353.js.map",
+    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fefe272.css",
+    "static/js/main.d8209353.js"
+  ]
+}
