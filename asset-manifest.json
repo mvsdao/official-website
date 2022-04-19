@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fefe272.css",
-    "main.js": "/static/js/main.e1fe276a.js",
+    "main.css": "/static/css/main.121c05c0.css",
+    "main.js": "/static/js/main.548376e7.js",
     "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
     "static/media/banner.png": "/static/media/banner.e7551ba97dad5d0a84af.png",
     "static/media/no_data.png": "/static/media/no_data.53c00195f891ba7836d1.png",
@@ -19,17 +19,17 @@
     "static/media/icon6.png": "/static/media/icon6.e7a54899cbbe2b799fc1.png",
     "static/media/icon2.png": "/static/media/icon2.12edbfeb86a1769266d2.png",
     "static/media/metamask.svg": "/static/media/metamask.576281bfee1ad8e6f2b14030e2307e5f.svg",
-    "static/media/AVAX.svg": "/static/media/AVAX.59b3ee84e729304d4745513714011fea.svg",
+    "static/media/network_default.svg": "/static/media/network_default.7553c1e5453d30a8b815fef10e268899.svg",
     "static/media/wallet-connect.svg": "/static/media/wallet-connect.16a363ed845f0b40067977c0dd172384.svg",
     "static/media/BNB.svg": "/static/media/BNB.59a60951c8e18b6ce6f1b1acead1f51d.svg",
     "index.html": "/index.html",
     "static/media/ETH.svg": "/static/media/ETH.ff9b96b6987af726194a12c6e62e01b7.svg",
-    "main.9fefe272.css.map": "/static/css/main.9fefe272.css.map",
-    "main.e1fe276a.js.map": "/static/js/main.e1fe276a.js.map",
+    "main.121c05c0.css.map": "/static/css/main.121c05c0.css.map",
+    "main.548376e7.js.map": "/static/js/main.548376e7.js.map",
     "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fefe272.css",
-    "static/js/main.e1fe276a.js"
+    "static/css/main.121c05c0.css",
+    "static/js/main.548376e7.js"
   ]
 }
